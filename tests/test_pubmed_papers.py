@@ -117,5 +117,5 @@ class TestModels(unittest.TestCase):
         self.assertEqual(paper.company_affiliations, ["Pfizer"])
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     unittest.main()
