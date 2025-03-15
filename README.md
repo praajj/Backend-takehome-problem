@@ -53,7 +53,7 @@ pubmed_papers/
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/pubmed-papers.git
+   git clone https://github.com/praajj/Backend-takehome-problem
    cd pubmed-papers
    
 
