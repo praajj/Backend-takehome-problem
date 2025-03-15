@@ -29,7 +29,7 @@ pubmed_papers/
 ├── get-papers-list # Executable script
 ├── pyproject.toml # Poetry configuration
 └── README.md # Documentation
-
+```
 
 
 ### Module Structure
