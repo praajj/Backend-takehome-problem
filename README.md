@@ -1,13 +1,13 @@
 # PubMed Papers
 
-A command-line tool to fetch research papers from PubMed with authors affiliated with pharmaceutical or biotech companies.
+A CLI tool to query PubMed for research papers authored by scientists affiliated with pharma and biotech industries.
 
 ## Features
 
-- Search PubMed using its full query syntax
-- Identify papers with at least one author from a pharmaceutical/biotech company
-- Export results to CSV with detailed information about papers and their authors
-- Command-line interface with options for debugging and output file specification
+- Advanced PubMed Search: Perform searches using full PubMed query syntax.
+- Author Affiliation Detection: Automatically identify papers with at least one author affiliated with pharmaceutical or biotech companies.
+- Detailed CSV Export: Export comprehensive results to a CSV file, including detailed information about papers and their authors.
+- Flexible Command-Line Interface: User-friendly CLI with options for debugging and specifying custom output file paths.
 
 ## Code Organization
 
