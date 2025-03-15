@@ -13,22 +13,22 @@ A CLI tool to query PubMed for research papers authored by scientists affiliated
 
 The project is organized as follows:
 
-
 pubmed_papers/
 ├── pubmed_papers/
-│   ├── __init__.py         # Package definition
-│   ├── api.py              # PubMed API interaction
-│   ├── filters.py          # Author affiliation filtering
-│   ├── models.py           # Data models
-│   ├── module.py           # Module API interface
-│   ├── cli.py              # Command-line interface
-│   └── cli_module.py       # Alternative CLI using the module API
+│   ├── __init__.py               # Package definition
+│   ├── api.py                   # PubMed API interaction
+│   ├── filters.py               # Author affiliation filtering
+│   ├── models.py                # Data models
+│   ├── module.py                # Module API interface
+│   ├── cli.py                   # Command-line interface
+│   └── cli_module.py            # Alternative CLI using the module API
 ├── tests/
 │   ├── __init__.py
-│   └── test_pubmed_papers.py  # Unit tests
-├── get-papers-list         # Executable script
-├── pyproject.toml          # Poetry configuration
-└── README.md               # Documentation
+│   └── test_pubmed_papers.py    # Unit tests
+├── get-papers-list              # Executable script
+├── pyproject.toml               # Poetry configuration
+└── README.md                   # Documentation
+
 
 
 ### Module Structure
